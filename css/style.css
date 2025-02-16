@@ -1108,3 +1108,9 @@ h4,
     width: 540px;
     height: 360px;
 }
+
+@media screen and (max-width:425px) {
+    .brand{
+        display: none;
+    }
+}
